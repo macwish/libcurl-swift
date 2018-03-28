@@ -1,0 +1,1 @@
+libcurl for Swift

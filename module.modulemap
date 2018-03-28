@@ -1,0 +1,5 @@
+module CCURL [system] {
+    header "shim.h"
+    link "curl"
+    export *
+}
